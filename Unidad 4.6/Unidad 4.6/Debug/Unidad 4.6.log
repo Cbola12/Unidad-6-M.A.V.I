@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (Unidad 4.6.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  crosshair.cpp
+  Enemigo.cpp
+  Juego.cpp
+C:\Users\Cristian\source\repos\Trabajos unidad 6\Unidad 4.6\Unidad 4.6\Juego.h(36,28): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Cristian\source\repos\Trabajos unidad 6\Unidad 4.6\Unidad 4.6\Juego.h(70,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Cristian\source\repos\Trabajos unidad 6\Unidad 4.6\Unidad 4.6\Juego.h(70,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Main.cpp
+C:\Users\Cristian\source\repos\Trabajos unidad 6\Unidad 4.6\Unidad 4.6\Juego.h(36,28): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Cristian\source\repos\Trabajos unidad 6\Unidad 4.6\Unidad 4.6\Juego.h(70,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Cristian\source\repos\Trabajos unidad 6\Unidad 4.6\Unidad 4.6\Juego.h(70,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Unidad 4.6.vcxproj -> C:\Users\Cristian\source\repos\Trabajos unidad 6\Unidad 4.6\Debug\Unidad 6.4.exe
